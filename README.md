@@ -1,2 +1,2 @@
 # npj-code
-code for A Two-Stage Stacking Model for Sepsis Mortality Prediction Highlights the Clinical Value of pre-ICU Lactate Testing
+code for A Dynamic Two-Stage Prediction Model Reveals Prognostic Value of Pre-ICU Lactate Testing in Sepsis
